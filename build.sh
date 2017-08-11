@@ -1,4 +1,3 @@
-cd f2c
 make
 make install libdir=${PREFIX}/lib \
   includedir="${PREFIX}/include/f2c" \
