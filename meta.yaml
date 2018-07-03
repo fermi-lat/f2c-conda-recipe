@@ -1,6 +1,6 @@
 package:
    name: f2c
-   version: "1.0.1"
+   version: "fermi"
 
 source:
    git_url: https://github.com/Areustle/fermi-f2c.git
